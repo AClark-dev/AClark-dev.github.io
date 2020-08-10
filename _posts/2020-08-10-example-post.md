@@ -13,12 +13,12 @@ Here's some text
 And some more text...
 
 
-"`python
+```python
 def hello_world():
     print("Hello world!")
 
 print(hello_world())
-"`
+```
 ```python
     Hello world!
 ```
